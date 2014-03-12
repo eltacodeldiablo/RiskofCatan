@@ -26,10 +26,10 @@ Risk meets Catan.
 
 - **Occupy** - You are said to occupy a territory (hex) if you have at least one standing army in the hex.
 - **Control** - You are said to control a territory (hex) if you have a number of armies equal to or greater than the number of pips on the territory's number token. For example, the Catan chit labeled "6" has 5 pips under the number, so you need five or more armies on that territory to fully control it. The Catan chit labeled "11" only requires 2 armies to control it.
-- **Contesting* - You are said to be contesting a territory (hex) if you move your army into an occupied but not controlled territory without attacking. 
+- **Contest** - You are said to be contesting a territory (hex) if you move your army into an occupied but not controlled territory without attacking. 
 - Neither armies can control this point until it at least one of the armies is eliminated.
 - No benefits can be received from the territory (hex) until contesting is resolved.
-- **Liberation** - You are said to liberate a territory (hex) if you manage to reduce an opponent's army to be under the required pip number on the territory's number token.
+- **Liberate** - You are said to liberate a territory (hex) if you manage to reduce an opponent's army to be under the required pip number on the territory's number token.
 - Deserts, and lands labeled "2" and "12" are controlled by any single army.
 - If an army has control an opponent's village is unable to obtain resources from that hex until the hex is "free" of enemy occupation. 
 
