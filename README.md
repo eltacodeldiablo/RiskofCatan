@@ -81,17 +81,25 @@ Risk meets Catan.
 ### Foot Soldier ###
 
 - **Cost**: 1 resource
-- **Description**: Normal foot soldier that can only move one space per turn.
+- **Description**: Normal foot soldier.
+- **Movement**: Can only move one space per turn.
+- **Attack Range**: Has a range of 1.
 
 ### Cavalry ###
 
 - **Cost**: 2 resources
-- **Description**: Troops on horses that can move two spaces per turn and also has an attack bonus of 1 against foot soldiers but loses the defensive bonus given in risk when attacked by foot soldiers.
+- **Description**: Troops on horses.
+- **Movement**: Can move two spaces per turn.
+- **Attack Range**: Has a range of 1.
+- **Combat**: Has an attack bonus of 1 against foot soldiers but loses the defensive bonus given in Risk when attacked by foot soldiers.
 
 ### Cannon ###
 
 - **Cost**: 3 resources
-- **Description**: Has a range of 2 and can barrage an army.
+- **Description**: Giant cannon.
+- **Movement**: Can only move one space per turn.
+- **Attack Range**: Has a range of 2.
+- **Combat**: Can barrage an army.
     - Roll a dice.
         - If 1-3 then it's a miss.
         - If 4-6 then it hits, and roll again.
