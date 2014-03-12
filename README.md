@@ -112,15 +112,19 @@ Risk meets Catan.
 
 ## Elimination ##
 
-- Occasionally, players may be eliminated from the game, but this does not happen every game.
+- Players may be eliminated during the game.
+    - This occurs when a player does not have control over any settlements or cities.
 - If a player needs to leave the game, they are simply eliminated as if they were defeated in combat.
-- However, if a player is eliminated when they do not have control over any settlements or cities then the eliminator takes control of all their buildings and roads.
-    - All their troops are, however, eliminated from the game.
-- If they leave, however, the eliminated player leaves all of their troops on the board, acting as defenders of the territories until they are defeated.
-    - They do not get any bonuses for controlling territories and cannot be moved.
-    - Any player may roll defense dice for the removed player.
-- Any eliminated player's resource cards are returned to the resource bank.
-- All of the eliminated player's development cards are shuffled back into the development card deck.
+- **Resource Cards**: any eliminated player's resource cards are returned to the resource bank.
+- **Development Cards**: any eliminated player's development cards are shuffled back into the development card deck.
+- **Buildings/Roads**:
+    - If a player is eliminated with no control over any buildings, the eliminator takes control of all their buildings and roads.
+- **Troops**:
+    - Any eliminated player's troops are removed.
+    - However, if the player leaves:
+        - The player leaves all of their troops on the board, acting as defenders of the territories until they are defeated.
+        - They do not get any bonuses for controlling territories and cannot be moved.
+        - Any player may roll defense dice for the removed player.
 
 ## Endgame ##
 - First player to 10 or more points (on their turn) wins.
