@@ -68,9 +68,9 @@ Risk meets Catan.
 ## Army Movement and Battle ##
 
 - Armies are placed on hexes, they move, attack, and defend according to Risk battle rules.
-    - However unlike risk troops must be situated in the same space as the people they are attacking unless otherwise specified (look at unit types).
-- Also a minimum of one troop staying behind like Risk does not exist.
-    - Armies may only move one space unless it is the cavalry unit (look at unit types).
+    - Unlike Risk, troops must be situated in the same space as the people they are attacking unless otherwise specified (look at unit types).
+    - Unlike Risk, there isn't a minimum of one troop staying behind.
+- Armies may only move one space unless it is the cavalry unit (look at unit types).
 - Armies may only move in territories (hexes) adjacent to roads/settlements/cities.
 - Armies cannot move into through a hex that is occupied by an opponent.
     - They are forced to contest and sit until resolved or retreat back to previous hex.
