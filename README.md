@@ -12,7 +12,8 @@ Risk meets Catan.
  - [Buying and recruiting armies](#buying-and-recruiting-armies)
  - [Army movement and battle](#army-movement-and-battle)
  - [Army unit types](#army-unit-types)
- - [Elimination and Endgame](#elimination-and-endgame)
+ - [Elimination](#elimination)
+ - [Endgame](#endgame)
 
 ## Placing Starting Armies ##
 
@@ -109,7 +110,7 @@ Risk meets Catan.
     - Unit can move one space as long as there is a foot soldier occupying that space.
     - Cannot be used if the residing space is under attack. Enemies must be at least one space away.
 
-## Elimination and Endgame ##
+## Elimination ##
 
 - Occasionally, players may be eliminated from the game, but this does not happen every game.
 - If a player needs to leave the game, they are simply eliminated as if they were defeated in combat.
@@ -120,8 +121,10 @@ Risk meets Catan.
     - Any player may roll defense dice for the removed player.
 - Any eliminated player's resource cards are returned to the resource bank.
 - All of the eliminated player's development cards are shuffled back into the development card deck.
+
+## Endgame ##
 - First player to 10 or more points (on their turn) wins.
-    - In the event that multiple players meet or exceed 10 points, the first player to still have 10 or more during their turn is declared the winner.
+- In the event that multiple players meet or exceed 10 points, the first player to still have 10 or more during their turn is declared the winner.
 
 ## Contributions ##
 
