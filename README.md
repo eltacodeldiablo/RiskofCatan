@@ -18,7 +18,7 @@ Risk meets Catan.
 ## Placing Starting Armies ##
 
 - For each starting settlement/city, after placing your road/ship you also place one army on an adjacent unoccupied hex.
-- If all nearby hexes are occupied, you may battle for the territory.
+- If all nearby hexes are occupied, you may battle for the territory (hex).
 - However, the army placed first is on defense.
 - After all settlements are placed, starting with the second player, all players take turns placing armies on unoccupied hexes, including the desert tile (but not water tiles) until all land tiles are occupied.
 - As per Risk rules, army placement follows a simple loop: 2nd player, 3rd player, 4th player, 1st player, 2nd player, etc.
@@ -34,7 +34,7 @@ Risk meets Catan.
     - If an army has control an opponent's village is unable to obtain resources from that hex until the hex is "free" of enemy occupation.
 - **Contest** - You are said to be contesting a territory (hex) if you move your army into an occupied but not controlled territory without attacking.
     - Neither armies can control this point until it at least one of the armies is eliminated.
-    - No benefits can be received from the territory (hex) until contesting is resolved.
+    - No benefits can be received from the territory until contesting is resolved.
 - **Liberate** - You are said to liberate a territory (hex) if you manage to reduce an opponent's army to be under the required pip number on the territory's number token.
 - **Annex** - You are said to annex a settlement/city or road if you manage to control all adjacent territories (hexes).
     - Replace the annexed building with one's own color.
@@ -44,15 +44,15 @@ Risk meets Catan.
 
 ## Rules About Annexed Settlements/Cities ##
 
-- You control an enemy settlement or city when you control all adjacent land territories.
+- You control an enemy settlement or city when you control all adjacent land territories (hexes).
 - The controlling player gets the victory points, resources, and harbors as if they had built it.
 - The original player loses the victory points, resource gathering, and use of the harbor until it is recaptured.
-- Note that all adjacent territories need to be controlled by the same player to have control of the settlement or city.
+- Note that all adjacent hexes need to be controlled by the same player to have control of the settlement or city.
 - You may maintain control of a settlement/city even if one enemy controls 2 of your home territories and another enemy player controls your 3rd home territory.
 
 ## Annexing Roads ##
 
-- You annex an enemy road when you control all land territories that have that road as an edge.
+- You annex an enemy road when you control all land territories (hexes) that have that road as an edge.
 - Captured roads prevent the transport of troops, unless the controlling player agrees to allow it through negotiation or trade.
 - Hexes near annexed roads can be moved upon so long as there is no occupying army.
 
@@ -68,11 +68,11 @@ Risk meets Catan.
 
 ## Army Movement and Battle ##
 
-- Armies are placed on hexes, they move, attack, and defend according to Risk battle rules.
+- Armies are placed on territories (hexes); they move, attack, and defend according to Risk battle rules.
     - Unlike Risk, troops must be situated in the same space as the people they are attacking unless otherwise specified (look at unit types).
     - Unlike Risk, there isn't a minimum of one troop staying behind.
 - Armies may only move one space unless it is the cavalry unit (look at unit types).
-- Armies may only move in territories (hexes) adjacent to roads/settlements/cities.
+- Armies may only move in hexes adjacent to roads/settlements/cities.
 - Armies cannot move into through a hex that is occupied by an opponent.
     - They are forced to contest and sit until resolved or retreat back to previous hex.
 - At the end of your turn, you may redeploy as many troops as you desire from one hex to any other hex, as long as there is a complete path of supply lines and trade routes connecting them.
@@ -122,8 +122,8 @@ Risk meets Catan.
 - **Troops**:
     - Any eliminated player's troops are removed.
     - However, if the player leaves:
-        - The player leaves all of their troops on the board, acting as defenders of the territories until they are defeated.
-        - They do not get any bonuses for controlling territories and cannot be moved.
+        - The player leaves all of their troops on the board, acting as defenders of the hexes until they are defeated.
+        - They do not get any bonuses for controlling hexes and cannot be moved.
         - Any player may roll defense dice for the removed player.
 
 ## Endgame ##
