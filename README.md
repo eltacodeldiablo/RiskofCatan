@@ -1,4 +1,4 @@
-RiskofCatan v1.0.0
+RiskofCatan
 ===========
 
 Risk meets Catan.
