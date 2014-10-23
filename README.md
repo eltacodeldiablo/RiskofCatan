@@ -3,6 +3,8 @@ RiskofCatan
 
 Risk meets Catan.
 
+![example](example.jpg)
+
 ## Table of Contents
 
  - [Placing starting armies](#placing-starting-armies)
