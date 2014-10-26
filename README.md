@@ -88,30 +88,6 @@ Risk meets Catan.
 - **Movement**: Can only move one space per turn.
 - **Attack Range**: Has a range of 1.
 
-### Cavalry ###
-
-- **Cost**: 2 resources
-- **Description**: Troops on horses.
-- **Movement**: Can move two spaces per turn.
-- **Attack Range**: Has a range of 1.
-- **Combat**: Has an attack bonus of 1 against foot soldiers but loses the defensive bonus given in Risk when attacked by foot soldiers.
-
-### Cannon ###
-
-- **Cost**: 3 resources
-- **Description**: Giant cannon.
-- **Movement**: Can only move one space per turn.
-- **Attack Range**: Has a range of 2.
-- **Combat**: Can barrage an army.
-    - Roll a dice.
-        - If 1-3 then it's a miss.
-        - If 4-6 then it hits, and roll again.
-            - This time, 1-2 = 1 kill, 3-4 = 2 kills, 5-6 = 3 kills.
-    - Can only attack once per turn.
-    - If enemy army enters into the same space as cannon and there is no other unit protecting it, the enemy automatically destroys the cannon.
-    - Unit can move one space as long as there is a foot soldier occupying that space.
-    - Cannot be used if the residing space is under attack. Enemies must be at least one space away.
-
 ## Elimination ##
 
 - Players may be eliminated during the game.
