@@ -6,7 +6,7 @@ Risk meets Catan.
 ![example](example.jpg)
 
 ## Table of Contents
-
+ - [Setting up the map](#setting-up-the-map)
  - [Placing starting armies](#placing-starting-armies)
  - [Territory occupation vs control](#territory-occupation-vs-control)
  - [Controlling settlements/cities](#controlling-settlements-cities)
@@ -16,6 +16,11 @@ Risk meets Catan.
  - [Army unit types](#army-unit-types)
  - [Elimination](#elimination)
  - [Endgame](#endgame)
+
+## Setting Up the Map ##
+- Doesn't have to be the normal catan setup.
+- **Fog of War**: Initially place all tiles upside down.
+ - Flip tiles when a player places their starting settlements on them or even a player moves a unit over to a tile.
 
 ## Placing Starting Armies ##
 
