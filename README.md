@@ -49,7 +49,7 @@ Risk meets Catan.
 - **Lifting Siege** - You are said to lift siege when you build armies from the settlement/city to try to break occupation/control so long as the city is not captured.
     - The armies are placed on one adjacent hex of the settlement/city and they are immediately on offense and must fight until resolved.
 
-## Rules About Annexed Settlements/Cities ##
+## Annexed Settlements/Cities ##
 
 - You control an enemy settlement or city when you control all adjacent land territories (hexes).
 - The controlling player gets the victory points, resources, and harbors as if they had built it.
