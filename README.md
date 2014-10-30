@@ -8,14 +8,15 @@ Risk meets Catan.
 ## Table of Contents
  - [Setting up the map](#setting-up-the-map)
  - [Placing starting armies](#placing-starting-armies)
- - [Territory occupation vs control](#territory-occupation-vs-control)
- - [Controlling settlements/cities](#controlling-settlements-cities)
- - [Controlling roads](#controlling-roads)
- - [Buying and recruiting armies](#buying-and-recruiting-armies)
+ - [Risk of Catan's Art of War](#risk-of-catans-art-of-war)
+ - [Annexed Settlements/Cities](#annexed-settlementscities)
+ - [Annexing Roads](#annexing-roads)
+ - [Buying Armies](#buying-armies)
  - [Army movement and battle](#army-movement-and-battle)
  - [Army unit types](#army-unit-types)
  - [Elimination](#elimination)
  - [Endgame](#endgame)
+ - [Contributions](#contributions)
 
 ## Setting Up the Map ##
 - Doesn't have to be the normal catan setup.
