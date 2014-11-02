@@ -1,4 +1,4 @@
-RiskofCatan
+Risk of Catan
 ===========
 
 Risk meets Catan.
