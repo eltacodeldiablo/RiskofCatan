@@ -19,8 +19,8 @@ Risk meets Catan.
  - [Contributions](#contributions)
 
 ## Setting Up the Map ##
-- Doesn't have to be the normal catan setup.
-- **Fog of War**: Initially place all tiles upside down.
+- Use the normal catan setup or anything you want!
+- **Variant: Fog of War**: Initially place all tiles upside down.
  - Flip tiles when a player places their starting settlements on them or even a player moves a unit over to a tile.
 
 ## Placing Starting Armies ##
